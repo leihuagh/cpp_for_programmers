@@ -1,0 +1,12 @@
+To compile in the terminal:
+
+    g++ main.cpp -o main.out
+
+
+
+
+Common Flags:
+
+    -o main.out  (...set the name of the executable to main.out)
+
+    -Wall        (..."warn all".  turns on g++ warnings. see https://stackoverflow.com/questions/2408038/what-does-wall-in-g-wall-test-cpp-o-test-do)
